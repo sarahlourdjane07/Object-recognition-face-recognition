@@ -1,0 +1,7 @@
+opencv-python
+ultralytics
+face-recognition
+Pillow
+numpy
+mss
+pyautogui
