@@ -1,0 +1,20 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# dlib wheel (не нужен в репозитории)
+*.whl
+
+# OS
+.DS_Store
+Thumbs.db
